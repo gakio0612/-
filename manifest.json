@@ -1,0 +1,9 @@
+{
+  "name": "確率ボタンゲーム",
+  "short_name": "確率ゲーム",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007aff",
+  "icons": []
+}
